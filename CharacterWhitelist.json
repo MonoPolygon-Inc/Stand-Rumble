@@ -11,7 +11,9 @@
   "Valentine":{
     "IsEarly" : true
   },
-  "Akuma":{},
+  "Akuma":{
+    "914108755": "fooly"
+  },
   "Jotaro":{
     "2602963097": "ssharmm_alt",
     "705302034": "ssharmm",
